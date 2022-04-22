@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `ga4shortcuts`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `david`,
+      summary: `Quick answers to GA4 Challenges`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A starter blog demonstrating what ga4 can do.`,
+    siteUrl: `https://ga4shortcuts.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ga4shortcuts`,
     },
   },
   plugins: [
