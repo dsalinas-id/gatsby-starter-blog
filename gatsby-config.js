@@ -125,11 +125,13 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-    {
+  ],
+}
+plugins: [
+  {
     resolve: "gatsby-plugin-google-tagmanager",
     options: {
       id: "GTM-NL35NQJ",
@@ -158,8 +160,7 @@ module.exports = {
       // Defaults to false
       enableWebVitalsTracking: true,
       // Defaults to https://www.googletagmanager.com
-      selfHostedOrigin: "https://ga4shortcuts.com/",
+      selfHostedOrigin: "https://ga4shortcuts.com",
     },
   },
-  ],
-}
+]
