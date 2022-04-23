@@ -43,7 +43,7 @@ module.exports = {
       // Defaults to false
       enableWebVitalsTracking: true,
       // Defaults to https://www.googletagmanager.com
-      selfHostedOrigin: "https://ga4shortcuts.com",
+      selfHostedOrigin: "https://www.googletagmanager.com",
     },
   },
     {
