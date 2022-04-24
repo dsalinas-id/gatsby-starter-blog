@@ -3,7 +3,7 @@ module.exports = {
     title: `ga4shortcuts`,
     author: {
       name: `david`,
-      summary: `Quick answers to GA4 Challenges`,
+      summary: `Quick answers to GA4 Challenges. `,
     },
     description: `A starter blog demonstrating what ga4 can do.`,
     siteUrl: `https://ga4shortcuts.com/`,
