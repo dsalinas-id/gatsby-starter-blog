@@ -10,7 +10,8 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
-              <StaticImage
+                  </h1>
+                  <StaticImage
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/profile-pic.png"
@@ -19,7 +20,6 @@ const Layout = ({ location, title, children }) => {
         quality={95}
         alt="Profile picture"
       />
-      </h1>
     )
   } else {
     header = (
