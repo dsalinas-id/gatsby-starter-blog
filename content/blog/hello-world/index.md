@@ -24,7 +24,8 @@ Out of the box, Universal Analytics was great at telling you what people did on 
 
 With a basic installation of Universal Analytics, that user would look like this in the reports:
 
-|Page          		|Pagewviews	|Time Action Happened
+|Page          		|Pageviews	|Time Action Happened
+|-------------------|-----------|--------------------
 |/home.htm		|	    1   |        3:04:00 pm
 |/product-details.htm	|	    1   |        3:04:05 pm
 
@@ -32,10 +33,11 @@ Because GA only saw the two pageviews come from the user, the users' session is 
 
 Now, that SAME user, doing the same things on the site would look like the following to GA4.
 
-|Event_Name		|Actions        |page_location				|Time Action Happened	
-|page_view	 	|	1	|http://www.example.com/home.htm	|3:04:00 pm
-|page_view              |       1       |http://www.example.com/product-details.htm      |3:04:05 pm
-|video_start            |       1       |http://www.example.com/product-details.htm      |3:04:25 pm
+|Event_Name		|Actions        |page_location									|Time Action Happened	
+|---------------|---------------|-----------------------------------------------|--------------------
+|page_view	 	|	1	        |http://www.example.com/home.htm				|3:04:00 pm
+|page_view      |       1       |http://www.example.com/product-details.htm     |3:04:05 pm
+|video_start    |       1       |http://www.example.com/product-details.htm     |3:04:25 pm
 |video_start		|	1	|http://www.example.com/product-details.htm	 |3:05:10 pm
 |video_complete		|	1	|http://www.example.com/product-details.htm	 |3:05:40 pm
 |file_download		|	1	|http://www.example.com/product-details.htm	 |3:06:12 pm
