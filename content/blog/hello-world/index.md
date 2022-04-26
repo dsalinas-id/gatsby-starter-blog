@@ -46,11 +46,22 @@ Let's unpack what happened between the two measurements platforms.
 
 Like we said before, the user experience was exactly the same for the user. However, in the default version of GA4 now gives us a much richer picture of what this user did and what their interests are.
 
-	1) Our time on site for this user went from *5 seconds* (UA GA) to *2 minutes 12 seconds* (GA4)
-	2) We found out that our user *downloaded a PDF*
+	1) Time on site went from **5 seconds** (UA GA) to **2 minutes 12 seconds** (GA4)
+	2) We discovered they **downloaded a PDF**
 	3) The user *started the video twice*- is there something compelling in the opening? Or was the user distracted?No way to tell yet, but we have more insight into who the user is.
 
 
 
-#3 Inherent Customization
--------------------------
+#3 Easy Goals
+-------------
+
+One of the best things about GA4 is just how easy it is to set a goal. See an event in your reports that impacts your business? Just hop into configuration and set it as a goal:
+
+![Goals!](goals.png)
+
+In the above example we set a completion of the video as a goal.
+
+This highlights the power and ease that's embedded in even a default installation of GA4. In just a few minutes we already identified and set a goal to start measuring success; and we did it with no additional work on the tagging side.
+
+Of course, there's plenty more we _could_ do with just a little customization. Want to trigger the event on video completions for the product video, but not the "Meet the team" video? We can create a custom event for just that view, and set _that_ to the goal instead. We'll look into that in a later post- I'll hopefully remember to link to here.
+
