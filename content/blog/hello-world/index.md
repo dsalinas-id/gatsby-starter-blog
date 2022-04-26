@@ -45,9 +45,9 @@ Now, that SAME user, doing the same things on the site would look like the follo
 Let's unpack what happened between the two measurements platforms.
 
 Like we said before, the user experience was exactly the same for the user. However, in the default version of GA4 now gives us a much richer picture of what this user did and what their interests are.
-1) Our time on site for this user went from 5 seconds (UA GA) to 2 minutes 12 seconds (GA4)
-2) We found out that our user downloaded a PDF 
-3) The user started the video twice- is there something compelling in the opening? Or was the user distracted?No way to tell yet, but we have more insight into who the user is.
+1) Our time on site for this user went from *5 seconds* (UA GA) to *2 minutes 12 seconds* (GA4)
+2) We found out that our user *downloaded a PDF*
+3) The user *started the video twice*- is there something compelling in the opening? Or was the user distracted?No way to tell yet, but we have more insight into who the user is.
 
 
 
