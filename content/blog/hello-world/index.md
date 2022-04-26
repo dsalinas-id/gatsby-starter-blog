@@ -63,5 +63,9 @@ In the above example we set a completion of the video as a goal.
 
 This highlights the power and ease that's embedded in even a default installation of GA4. In just a few minutes we already identified and set a goal to start measuring success; and we did it with no additional work on the tagging side.
 
-Of course, there's plenty more we _could_ do with just a little customization. Want to trigger the event on video completions for the product video, but not the "Meet the team" video? We can create a custom event for just that view, and set _that_ to the goal instead. We'll look into that in a later post- I'll hopefully remember to link to here.
+Of course, there's plenty more we _could_ do with just a little customization. Want to trigger the event on video completions for the product video, but not the "Meet the team" video? 
+
+We can create a custom event for just that view, and set _that_ to the goal instead. 
+
+We'll look into that in a later post- I'll hopefully remember to link to here.
 
