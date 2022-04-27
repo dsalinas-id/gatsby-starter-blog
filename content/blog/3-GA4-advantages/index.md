@@ -1,6 +1,6 @@
 ---
 title: 3 Advantages to Google Analytics 4
-date: "2022-04-26"
+date: "2022-04-02"
 description: "Or maybe not."
 ---
 
@@ -46,9 +46,9 @@ Let's unpack what happened between the two measurements platforms.
 
 Like we said before, the user experience was exactly the same for the user. However, in the default version of GA4 now gives us a much richer picture of what this user did and what their interests are.
 
-	1) Time on site went from **5 seconds** (UA GA) to **2 minutes 12 seconds** (GA4)
-	2) We discovered they **downloaded a PDF**
-	3) The user *started the video twice*- is there something compelling in the opening? Or was the user distracted?No way to tell yet, but we have more insight into who the user is.
+1) Time on site went from **5 seconds** (UA GA) to **2 minutes 12 seconds** (GA4)
+2) We discovered they **downloaded a PDF**
+3) The user *started the video twice*- is there something compelling in the opening? Or was the user distracted?No way to tell yet, but we have more insight into who the user is.
 
 
 
