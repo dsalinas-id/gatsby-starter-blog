@@ -1,6 +1,6 @@
 ---
 title: 3 Advantages to Google Analytics 4
-date: "2015-05-01T22:12:03.284Z"
+date: "2022-04-26"
 description: "Or maybe not."
 ---
 

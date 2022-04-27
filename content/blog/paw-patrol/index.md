@@ -1,5 +1,8 @@
-__Note: This post has nothing to do with Paw Patrol. Except that my toddler asked me to name it Paw Patrol, so there it is.__
-
+---
+title: Does old Google Analytics tracking code still work?
+date: "2022-04-26"
+description: "Exploring the changes in GA4 at a high level."
+---
 
 How Big a Change is the Move to GA4?
 ====================================
