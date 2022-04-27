@@ -10,11 +10,11 @@ Since so many people are talking about what a huge change the sunsetting of Univ
 
 (the _userve = 2 is a flag to allow local logging of hits; so if this works it should send data both to google-analytics.com and my own web server logs at testga.com )
 
-###Sure enough it does:
+###Sure enough it does:###
 
 !['hits'](hits.png)
 
-###And it shows up in realtime reporting as well:
+###And it shows up in realtime reporting as well:###
 
 !['realtime'](realtime.png)
 
